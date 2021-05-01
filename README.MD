@@ -1,6 +1,6 @@
-# HGIB
-Heterogeneous Graph Information Bottleneck
-
+# Heterogeneous Graph Information Bottleneck
+This repository is the implementation of Heterogeneous Graph Information Bottleneck(HGIB)
+> Liang Yang, Fan Wu, Zichen Zheng, Bingxin Niu, Junhua Gu, Chuan Wang, Xiaochun Cao and Yuanfang Guo. "Heterogeneous Graph Information Bottleneck". IJCAI-21
 ## Overview
 Here we provide the implementation of Heterogeneous Graph Information Bottleneck(HGIB) in Pytorch, 
 along with a minimal execution example. The repository is organised as follows:

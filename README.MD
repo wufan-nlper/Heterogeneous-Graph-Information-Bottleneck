@@ -16,7 +16,8 @@ When training step completes, you can use `visualization.py` to obtain the visua
 node representations. 
 
 ## Dependencies
-- `pytorch==3.6.10`
+- `python==3.6.10`
+- `torch==1.2.1`
 - `tqdm==4.36.1`
 - `numpy==1.18.2`
 - `scikit-learn==0.22.1`
